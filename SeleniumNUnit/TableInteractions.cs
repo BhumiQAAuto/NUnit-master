@@ -1,0 +1,6 @@
+﻿namespace SeleniumNUnit
+{
+    class TableInteractions
+    {
+    }
+}
